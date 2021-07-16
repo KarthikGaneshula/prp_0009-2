@@ -1,0 +1,6 @@
+Bug report for hashing_0009:
+Name: Karthik Ganeshula
+UCID: kg496, NJIT ID:31520009
+Handout 2 guidelines adhered.
+Empty slots of T have been filled with '-1's.
+No Bugs Found.
